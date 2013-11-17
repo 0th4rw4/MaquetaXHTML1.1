@@ -7,5 +7,5 @@ GetSimple
 toDOs
 ====
 
-Corregir formulario de busqueda.
-Modificar enctype para que acepte subir archivos en contacto.html
++ Corregir formulario de busqueda.
++ Modificar enctype para que acepte subir archivos en contacto.html
